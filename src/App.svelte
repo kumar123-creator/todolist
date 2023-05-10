@@ -1,5 +1,5 @@
 <script>
-  let todos = [];
+  let todos = []
   let newTodo = '';
 
   function addTodo() {
